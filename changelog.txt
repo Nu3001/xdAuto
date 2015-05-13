@@ -1,8 +1,10 @@
-Development (unreleased version)
+1.1.6b2: May 9th 2015
 	Change ROM name from CarpadCE to xdAuto
 	Added Apollo music player
 	Updated Radio code to 1.1.6 with Zaphod's ducking
-	Fixed Audio and other issues do to /etc not being setup properly
+	Fixed Audio and other issues due to /etc not being setup properly
+	Modify TWRP to accept '--wipe_all'
+	
 
 1.1.6b1 (named CarpadCE): May 5th 2015
 	Added TWRP
