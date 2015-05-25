@@ -1,3 +1,6 @@
+	Adjust DPI in BonovoMCU Backlight page so OK button fits on screen
+	Allow Volume Up/Down/Mute keycodes to adjust MCU volume 
+
 1.1.6b3: May 15th 2015
 	Update paths so install from recovery zip actually installs kernel and recovery
 	Disable overclocking in kernel by default (compile with CONFIG_MACH_RK3188_OVERCLOCK=y to enable)
