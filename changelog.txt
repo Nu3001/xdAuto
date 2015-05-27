@@ -1,3 +1,6 @@
+	User selectable NavBar buttons
+	  - Return of Volume Up/Down buttons to Navbar
+	Temp fix to allow make otapackage to build flashable zips
 	Adjust DPI in BonovoMCU Backlight page so OK button fits on screen
 	Allow Volume Up/Down/Mute keycodes to adjust MCU volume 
 
