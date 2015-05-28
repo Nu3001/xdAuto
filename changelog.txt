@@ -1,3 +1,4 @@
+	Allow ROM to be flashed with rkBatchTool from factory ROM
 	User selectable NavBar buttons
 	  - Return of Volume Up/Down buttons to Navbar
 	Temp fix to allow make otapackage to build flashable zips
