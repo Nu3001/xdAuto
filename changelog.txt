@@ -1,3 +1,11 @@
+	Change default layout of Navbar buttons.
+	Fix Immersive Mode (statusbar & navbar)
+	Overhaul of Bluetooth phone app
+	Cause music apps to pause during sleep
+	Update strings in Radio
+	Realign Settings options (Separate Statusbar & Navbar options)
+	Option to Enable HeadsUp notifications (Settings -> Statusbar)
+	Switch RK image path to be compatible with RK Factory Tool
 1.1.6b4: May 29th 2015
 	Change default governor to be 'interactive' by default
 	Allow ROM to be flashed with rkBatchTool from factory ROM
