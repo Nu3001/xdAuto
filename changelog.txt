@@ -1,3 +1,4 @@
+	Media Metadata in Statusbar option
 	Change default layout of Navbar buttons.
 	Fix Immersive Mode (statusbar & navbar)
 	Overhaul of Bluetooth phone app
