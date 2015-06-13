@@ -1,3 +1,5 @@
+1.1.6c: June 13, 2015
+	Radio is now RemoteControlClient - publishes metadata
 	Remove artwork from Statusbar Metadata & increase font.
 	Fix radio saving tempory Duck Volume
 	Update Radio Strings
