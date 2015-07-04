@@ -1,0 +1,36 @@
+Developer notes
+
+New intents added:
+android.intent.action.BONOVO_SET_VIDEO_CHANNEL
+android.intent.action.BONOVO_SET_AUDIO_CHANNEL
+
+Each intent takes an extra data int named 'channel' that specifies the channel number to switch to.
+These are set independantly, so you can switch to 'Aux In' audio without having the 'Aux In' video 
+displayed.
+
+Audio channels:
+	0: Android source
+	1: Bluetooth Music source
+	2: Aux In
+	3: Radio
+	6: Bluetooth Telephone
+
+Video Channels:
+	0: Android source
+	1: Aux In
+	2: Aux In 2
+	3: Back Video In
+
+Advanced option:
+The android.intent.action.BONOVO_SET_VIDEO_CHANNEL intent also takes an extra boolean 
+variable named 'videoswitcher' which defaults to true.  By default an app is run that will
+catch any back button, home button, or screen touches and revert back to the android display.
+Set 'videoswitcher' to false and this app is not run so you must have something switch the mode back.
+
+The idea for having the ability to disable the videoswitcher app was to allow something like Tasker to 
+switch the video to 'Back Video In' when the Reverse intent is sent.  Then Tasker can revert the video
+to the Android source when the Reverse intent is sent again.
+
+Be careful when using this without the videoswitcher app.  You might get stuck and have to reboot to 
+return to the default Android source.
+

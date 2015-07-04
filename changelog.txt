@@ -1,3 +1,4 @@
+	Enable AV Switcher to change audio/video channels
 1.1.6c: June 13, 2015
 	Radio is now RemoteControlClient - publishes metadata
 	Remove artwork from Statusbar Metadata & increase font.
