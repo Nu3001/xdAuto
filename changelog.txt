@@ -1,4 +1,5 @@
 1.1.6c2: July 19 2015
+	Implement rudimentary Analog AV Control
 	Allow other DPI's to work better with Radio
 	Navbar button spacing a little more dynamic.
 	MCU Audio sleep fixes
