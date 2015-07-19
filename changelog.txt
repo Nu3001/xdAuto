@@ -1,3 +1,11 @@
+1.1.6c2: July 19 2015
+	Allow other DPI's to work better with Radio
+	Navbar button spacing a little more dynamic.
+	MCU Audio sleep fixes
+	Various Bluetooth fixes and additions 
+	   (https://github.com/Nu3001/packages_apps_bonovoapps/commit/a5dfe533a03b32b7069d7e41116c07a198c04adf)
+	Bluetooth Anti-pop fix
+	Bluetooth default phone state fix
 	Enable AV Switcher to change audio/video channels
 1.1.6c: June 13, 2015
 	Radio is now RemoteControlClient - publishes metadata
