@@ -1,3 +1,4 @@
+	Update usb_modeswitch to 2.2.6
 	Add 3 ITU Regions to Radio.  (Allows US AM stations to be properly spaced)
 	Fix bug with Radio not adding favorites in certain cases
 	Update usb_modeswitch and switch to building from source
