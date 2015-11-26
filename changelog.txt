@@ -2,6 +2,7 @@
 	Add 3 ITU Regions to Radio.  (Allows US AM stations to be properly spaced)
 	Fix bug with Radio not adding favorites in certain cases
 	Update usb_modeswitch and switch to building from source
+	Add Bluetooth AVRCP support (playing track info and play position)
 1.1.6c2: July 19 2015
 	Implement rudimentary Analog AV Control
 	Allow other DPI's to work better with Radio
