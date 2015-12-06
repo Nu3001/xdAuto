@@ -3,6 +3,9 @@
 	Fix bug with Radio not adding favorites in certain cases
 	Update usb_modeswitch and switch to building from source
 	Add Bluetooth AVRCP support (playing track info and play position)
+	Bluetooth phone will now show the caller name provided by the connected phone
+	Bluetooth audio can now be controlled by SWC without opening the Bluetooth audio app first
+	Fix for volume popup breaking immersive mode in apps such as Automate beta
 1.1.6c2: July 19 2015
 	Implement rudimentary Analog AV Control
 	Allow other DPI's to work better with Radio
