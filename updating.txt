@@ -1,0 +1,9 @@
+Steps to update a version
+
+Update ro.product.version in device/rockchip/rk3188/rk3188.mk
+Update ro.rksdk.version in device/rockchip/rk3188/system.prop
+Update version and time in rockchip/rk3188/preinstall/rom.ota.prop
+
+Upload zip and img to xfer.aokp.co
+Login to otaupdatecenter.pro and add new image link
+Post announcement on xda-developers.com
