@@ -1,5 +1,5 @@
 	Bluetooth Music is now a completely separate app from Bluetooth settings
-	Launcher incons for Bluetooth Phone, Bluetooth Music and Bluetooth Settings
+	Launcher icons for Bluetooth Phone, Bluetooth Music and Bluetooth Settings
 	Improved Bluetooth connection methods
 	Add an option to select either ducking or muting other apps when Bluetooth Audio plays
 1.1.6d: December 8 2015
