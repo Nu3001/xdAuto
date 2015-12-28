@@ -4,6 +4,7 @@
 	Launcher icons for Bluetooth Phone, Bluetooth Music and Bluetooth Settings
 	Improved Bluetooth connection methods
 	Add an option to select either ducking or muting other apps when Bluetooth Audio plays
+	Improved contact photo handling in phone calls.
 1.1.6d: December 8 2015
 	Add OTA-Updater software to make updates easier
 	Disable rkupdateservice
