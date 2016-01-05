@@ -1,3 +1,4 @@
+	Add option to kernel to not remove power from USB ports on standby
 	Stop usb_modeswitch from starting service
 	Update tzdata to 2015g
 	Bluetooth Music is now a completely separate app from Bluetooth settings
